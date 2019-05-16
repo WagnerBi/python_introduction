@@ -3,3 +3,4 @@ Introduction to basic python, pandas and json parsing
 
 ## Author 
 Irina Wagner
+Uni Bibliothek Bielefeld
